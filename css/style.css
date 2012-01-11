@@ -23,7 +23,7 @@ body { font: normal 13px/1.33 sans-serif }
     width: 58px;
     height: 34px;
     display: block;
-    background: url(img/icon-cvv-blank.png) no-repeat 0 0;
+    background: url(../img/icon-cvv-blank.png) no-repeat 0 0;
 }
 #cvvNumber {
     width: 80px;
