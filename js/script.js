@@ -75,7 +75,7 @@ function validate( number ) {
 		// change cvv icon
 		if (matched.cvv === "front") {
 			$("#cvv").css({
-				background: "url(" + cvvFont + ") no-repeat 0 0"
+				background: "url(" + cvvFront + ") no-repeat 0 0"
 			});
 		} else if (matched.cvv === "back") {
 			$("#cvv").css({
